@@ -1,0 +1,3 @@
+$primary: #bbbe0a;
+
+@import "node_modules/bootstrap/scss/bootstrap";
